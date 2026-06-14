@@ -43,5 +43,12 @@ The objective of this repository is to document hands-on security exercises and 
 
 ---
 
-**Author:** Manel Mostefaoui
-Cybersecurity Student | Higher School of Computer Science (ESI Sidi Bel Abbès)
+## Contact
+
+**Manel Mostefaoui**
+Cybersecurity Student – Higher School of Computer Science (ESI Sidi Bel Abbès)
+
+* GitHub: https://github.com/ManelMostefaoui
+* LinkedIn: https://www.linkedin.com/in/manel-mostefaoui-b51ab6252 
+* Email: ma.mostefaoui@esi-sba.dz
+
